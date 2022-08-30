@@ -17,5 +17,4 @@ def is_anagram(str1, str2):
     # Return true
     return True
 
-
 print(is_anagram("test", "sett"))
